@@ -12,3 +12,6 @@ try{
 } catch (error) {
 console.log(error);
 };
+
+let foo: void = undefined;
+let bar: never = error('only me');

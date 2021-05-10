@@ -10,6 +10,6 @@ console.log(age);
 
 
 let name: string = 'Daiki';
-name = 10;
+// name = 10;
 console.log(name);
 
